@@ -1,4 +1,4 @@
-## Olá sou o vinicius estou me profissionalizando em web full stack
+## Olá sou o vinicius. Atualmente to fazendo bootcamp de web full-stack pela a Labenu
 
 <div align="center">
   <a href="https://github.com/future4code/gebru-Vinicius-Passo">
