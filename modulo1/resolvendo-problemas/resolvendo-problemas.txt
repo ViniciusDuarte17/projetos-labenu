@@ -1,0 +1,40 @@
+Passo 1- Ter atenção no enuciado ler com cuidado e entender
+o que a questão ta pedido, e se não entender algum 
+palavra buscar o significado dela e dair entrar no 
+proximo passo.
+
+Passo 2- Retirar infromações relevantes para o nosso
+código que são palavra chave para nomear algumas variáveis
+verbo que são a ação do nosso código, se houver alguma 
+lista a gente já sabe que fazemos um array ou um objeto.
+ou seja tirar infromações relevantes pro nosso código.
+
+Passo 3- Pensar entradas e saídas, criar na nosso cabeça qual
+a melhor forma de resolver esse problema, sabendo que
+nesse momento não vira a melhor solução de escrita de 
+código, em outras palavras resolver primeiro o código
+em nosso imaginação e a partir dai entrametos no terceiro
+passo.
+
+Passo 4- Que é fazer um esquema visual do que vamos fazer em 
+nosso código, desenhar um diagram ou até mesmo passar
+pro papel nosso ideia. o objetivo é só criar um esquema
+visual do que vamos fazer.
+
+Passo 5- Criar um código feio, objetivo é fazer a nossa
+ideia funcionar, fazer com o que código funcione na força
+bruta, e testar possiveis soluções desse código que estamos
+criando até obter uma resposta do desafio que estamos 
+tentando solucionar.
+
+passo 6- Entrar de vez na força bruta como criar soluções
+óbias e baixa performace, escrever em nosso idioma, depois
+que fizermos isso e o program estiver rodando, vamos pro
+próximo passo.
+
+passo 7- Vamos então refatorar, dar bons nomes para funções
+e variáveis, separar as funções de cada item e transcrever
+para a linguagem de programção desejada. e para deixar ainda
+melhor nesse passo é recomendando deixar o nosso código
+todo em inglês.
+

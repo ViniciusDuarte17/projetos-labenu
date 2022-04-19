@@ -1,0 +1,50 @@
+.ajustando{
+    color:black;
+}
+.mudando-tamanho{
+    width: 120px;
+    margin-right: 50px ;
+}
+.mechendo-fonte{
+    font:bold 65px Arial;
+    background-color: black;
+    color:azure;
+}
+.chamando-atencao{
+   
+    font:normal 35px Arial;
+    color:black;
+}
+.rede-social{
+    display: block;
+}
+.mudando-cor-fundo{
+    background-color: rgb(190, 109, 80);
+}
+.icone{
+    margin-top: -10%;
+}
+.funcionarios{
+    font:oblique 19px Arial;
+}
+.strong{
+    font:normal 45px Arial;
+}
+.estoque{
+    color: rgb(5, 2, 165);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 25px;
+}
+.informacao{
+    position:absolute;
+    bottom: 0%;
+    background-color: blue;
+    color:aquamarine;
+    height: 100px;
+    text-align:left;
+    line-height: 100px;
+}
+.add-produtos{
+    color: rgba(15, 1, 47, 0.472);
+    font:normal 25px Arial;
+}
