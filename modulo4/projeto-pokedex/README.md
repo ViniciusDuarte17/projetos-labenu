@@ -1,73 +1,54 @@
-# Getting Started with Create React App
+![image](https://user-images.githubusercontent.com/61671015/165355042-8d272f3c-cc94-4129-bf61-90452f580124.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+INTEGRANTES: 
+- [Rommel Santhiago](https://github.com/rommelsanthiago)
+- [Bruno Martins](https://github.com/bzaws)
+- [vinicius duarte passo](https://github.com/ViniciusDuarte17)
 
-## Available Scripts
+### Link de acesso 
 
-In the project directory, you can run:
-# Getting Started with Create React App
+[gebru-pokedex4.surge.sh](gebru-pokedex4.surge.sh)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# O que funciona:
+### Página HOME
+✅ Lista de Pokemons
 
-### `npm start`
+✅ Botões de navegação
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+✅ Botão para adicionar pokemons a pokedex
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+✅ Botão para ver detalhes do pokemon
 
-### `npm test`
+✅ Componente de paginação da lista de pokemons
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Página Detalhes
+✅ Mostrar o pokemon escolhido
 
-### `npm run build`
+✅ Mostra os dados e tipo de pokemon
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+###  Página Pokedex
+✅ Mostra a lista de pokemons adicionados a ela
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+✅ Mostra o botão remover pokemon
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+✅ Mostra o botão detalhes do pokemon
 
-### `npm run eject`
+### Responsividade
+![Webp net-resizeimage](https://user-images.githubusercontent.com/61671015/165351130-75ee1f02-d272-483f-aa5b-cbf57dc120c2.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# O que não funciona: 
+###  Página de batlha pokemon
+❌ Não foram implementadas as funções e componentes para ocorrer as batalhas
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Tecnologias utilizadas
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
+- [Styled-Components](https://styled-components.com/docs)
+- [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [MUI](https://mui.com/pt/)
+- [Sweetalert2](https://sweetalert2.github.io)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# IMAGENS
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://user-images.githubusercontent.com/61671015/165361492-27ea7475-1f2e-452e-a355-35c6bf8aaf00.mp4
