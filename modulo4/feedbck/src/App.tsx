@@ -4,7 +4,9 @@ export function App () {
 
   return(
     <div>
-      <Widget />
+      <Widget /> 
     </div>
   )
 }
+
+// feitor por vinicius
