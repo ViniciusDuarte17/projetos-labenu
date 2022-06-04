@@ -22,7 +22,6 @@ import {
 import { useRequestData } from "../../hooks/useRequestData";
 import { BASE_URL } from "../../constants/BASE_URL";
 import Footer from "../../components/Footer";
-import axios from "axios";
 import GlobalStateContext from "../../Global/GlobalStateContext";
 
 const headers = {
@@ -53,6 +52,13 @@ const Cart = () => {
     }
     setCart(newCart)
 }
+
+let totalPrice = 0;
+  cart.forEach( (cal) => {
+    totalPrice += cal.shipping + Number(cal.price * cal.amount)
+  })
+
+  console.log("total preço",totalPrice)
 
   const [profile] = useRequestData(`${BASE_URL}/profile`);
   console.log(cart);
@@ -113,12 +119,13 @@ const Cart = () => {
           <CartContainer>
             <ContainerAddress>
               <PAddress>Endereço de entrega</PAddress>
-              <Address>{profile?.user.address}</Address>
-
+            
               <div>
                 <Address>{profile?.user.address}</Address>
                 <div>
-                  {cart[0]?.nameRestaurant}
+               <Styled.NameRestaurant>
+               {cart[0]?.nameRestaurant}
+               </Styled.NameRestaurant>
                   <Styled.delivery>
                     <span>
                       {cart[0]?.deliveryTime - 10} - {cart[0]?.deliveryTime} min

@@ -1,10 +1,18 @@
 import styled from 'styled-components';
 
+
+export const d = styled.div`
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  min-height: 100vh;
+`
 export const CartContainer = styled.div`
 display: flex;
 align-items: center;
 flex-direction: column;
 gap: 30px;
+padding-bottom: 50%;
 `
 export const ContainerAddress = styled.div`
 display: flex;
@@ -111,4 +119,11 @@ export const delivery = styled.div`
   margin-top: 10%;
   padding-left: 1%;
   color: #b8b8b8;
+`
+
+export const NameRestaurant = styled.div`
+  position: absolute;
+  margin-top: 6%;
+  margin-left: 2%;
+  color: red;
 `
