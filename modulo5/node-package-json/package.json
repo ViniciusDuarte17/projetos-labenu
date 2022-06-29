@@ -1,0 +1,14 @@
+{
+  "name": "package-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "dev1": "clear && node exercicio1", 
+    "dev2": "clear && node exercicio2",
+    "dev3": "clear && node exercicio3"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "listatypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./build/exercicio-1",
+    "start2": "tsc && node ./build/exercicio-2",
+    "start3": "tsc && node ./build/exercicio-3",
+    "start4": "tsc && node ./build/exercicio-4",
+    "start5": "tsc && node ./build/exercicio-5",
+    "start6": "tsc && node ./build/exercicio-6"
+  },
+  "keywords": [],
+  "author": "Vinicius",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.2"
+  }
+}
