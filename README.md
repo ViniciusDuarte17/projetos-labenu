@@ -10,7 +10,7 @@ Olá, meu nome é Vinicius Duarte. E sou um amante no mundo da tecnologia. Atual
   <a href="https://www.linkedin.com/in/vinicius-duarte-passo-656865223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## 🛠 Tecnologias e Ferramentas
+## 🛠 Tecnologias e Ferramentas front-end
 
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,7 +22,7 @@ Olá, meu nome é Vinicius Duarte. E sou um amante no mundo da tecnologia. Atual
   <!--   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> -->
  </div>
  
-  ## 📚 Aprendendo
+  ## 🛠 Tecnologias e Ferramentas back-end
   
    <div style={ display: flex }>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
